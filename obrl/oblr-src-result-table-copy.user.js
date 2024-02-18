@@ -3,6 +3,7 @@
 // @version       0.1.0
 // @description   Copies the result table for easy paste into Excel
 // @author        Gavin Adams
+// @namespace     OBRL
 // @match         https://www.simracerhub.com/scoring/season_race.php?*
 // @icon          https://www.google.com/s2/favicons?sz=64&domain=simracerhub.com
 // @grant         GM_registerMenuCommand
