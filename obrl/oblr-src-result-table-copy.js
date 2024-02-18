@@ -7,7 +7,8 @@
 // @icon          https://www.google.com/s2/favicons?sz=64&domain=simracerhub.com
 // @grant         GM_registerMenuCommand
 // @grant         GM_setClipboard
-// @updateurl     fff
+// @updateurl     https://raw.githubusercontent.com/gadams999/user-scripts/main/obrl/oblr-src-result-table-copy.js
+// @downloadurl   https://raw.githubusercontent.com/gadams999/user-scripts/main/obrl/oblr-src-result-table-copy.js
 // ==/UserScript==
 
 (function () {
