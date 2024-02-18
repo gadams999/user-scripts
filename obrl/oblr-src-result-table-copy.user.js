@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Sim Racer Hub Race Result Table Copy
-// @version       0.5.0
+// @version       0.6.0
 // @description   Copies the result table for easy paste into Excel
 // @author        Gavin Adams
 // @namespace     OBRL
@@ -8,8 +8,8 @@
 // @icon          https://www.google.com/s2/favicons?sz=64&domain=simracerhub.com
 // @grant         GM_registerMenuCommand
 // @grant         GM_setClipboard
-// @updateURL     https://raw.githubusercontent.com/gadams999/user-scripts/main/obrl/oblr-src-result-table-copy.js
-// @downloadURL   https://raw.githubusercontent.com/gadams999/user-scripts/main/obrl/oblr-src-result-table-copy.js
+// @updateURL     https://github.com/gadams999/user-scripts/raw/main/obrl/oblr-src-result-table-copy.user.js
+// @downloadURL   https://github.com/gadams999/user-scripts/raw/main/obrl/oblr-src-result-table-copy.user.js
 // ==/UserScript==
 
 (function () {
