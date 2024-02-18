@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Sim Racer Hub Race Result Table Copy
-// @version       0.3.0
+// @version       0.4.0
 // @description   Copies the result table for easy paste into Excel
 // @author        Gavin Adams
 // @namespace     OBRL
@@ -20,7 +20,7 @@
       let table = null;
       let table_text = null;
       // Raw header is FIN to the first \n\n, body is the rest
-      const re = /^(?<header>FIN.*dd\n\n)(?<body>.*)$/s;
+      const re = /^(?<header>FIN.*\n\n)(?<body>.*)$/s;
       let header = "";
       let body = "";
       switch (tables.length) {
